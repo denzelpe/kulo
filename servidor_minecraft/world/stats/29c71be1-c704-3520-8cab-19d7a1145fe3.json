@@ -1,0 +1,89 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:white_bed": 1,
+      "minecraft:furnace": 2,
+      "minecraft:stick": 28,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 40,
+      "minecraft:cooked_porkchop": 2,
+      "minecraft:spruce_planks": 28,
+      "minecraft:cooked_mutton": 1,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:air": 0,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:mined": {
+      "minecraft:gravel": 1,
+      "minecraft:furnace": 2,
+      "minecraft:spruce_log": 8,
+      "minecraft:crafting_table": 2,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 10,
+      "minecraft:coal_ore": 20,
+      "minecraft:sugar_cane": 4,
+      "minecraft:iron_ore": 5,
+      "minecraft:stone": 25,
+      "minecraft:white_bed": 1
+    },
+    "minecraft:killed": {
+      "minecraft:pig": 5,
+      "minecraft:sheep": 5,
+      "minecraft:cow": 2
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 6155,
+      "minecraft:walk_one_cm": 16807,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 324,
+      "minecraft:mob_kills": 12,
+      "minecraft:damage_taken": 70,
+      "minecraft:play_time": 16737,
+      "minecraft:damage_dealt": 1100,
+      "minecraft:jump": 520,
+      "minecraft:time_since_death": 16737,
+      "minecraft:interact_with_furnace": 8,
+      "minecraft:sprint_one_cm": 65325,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 13165,
+      "minecraft:total_world_time": 16737,
+      "minecraft:swim_one_cm": 6157,
+      "minecraft:fly_one_cm": 98435,
+      "minecraft:walk_on_water_one_cm": 254,
+      "minecraft:crouch_one_cm": 6387,
+      "minecraft:sneak_time": 1721
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 27,
+      "minecraft:cooked_mutton": 1,
+      "minecraft:crafting_table": 2,
+      "minecraft:spruce_planks": 7,
+      "minecraft:wooden_pickaxe": 3,
+      "minecraft:oak_planks": 4,
+      "minecraft:furnace": 2,
+      "minecraft:cooked_porkchop": 3,
+      "minecraft:white_bed": 1,
+      "minecraft:stone_pickaxe": 49
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 8,
+      "minecraft:cobblestone": 25,
+      "minecraft:white_wool": 5,
+      "minecraft:white_bed": 1,
+      "minecraft:sugar_cane": 11,
+      "minecraft:gravel": 1,
+      "minecraft:crafting_table": 2,
+      "minecraft:beef": 4,
+      "minecraft:raw_iron": 5,
+      "minecraft:spruce_log": 7,
+      "minecraft:leaf_litter": 1,
+      "minecraft:coal": 38,
+      "minecraft:oak_log": 10,
+      "minecraft:furnace": 2,
+      "minecraft:mutton": 5
+    }
+  },
+  "DataVersion": 4671
+}
